@@ -2,6 +2,7 @@
 
 A Marsupial's Adventure is the game I developed for my thesis. It is based on [TopDownEngine](https://assetstore.unity.com/packages/templates/systems/topdown-engine-89636), but most systems received changes to accommodate my goals and improve player experience.
 
+![A Marsupial's Adventure](GameImage.png)
 
 ## Experiment
 
